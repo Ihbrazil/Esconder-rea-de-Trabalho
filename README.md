@@ -1,2 +1,2 @@
 # Esconder-Area-de-Trabalho
- Esconder e Mostrae a Área de Trabalho do Windows
+ Esconder e Mostrar a Área de Trabalho do Windows
